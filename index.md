@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+## 欢迎大家来到我的博客
 
-You can use the [editor on GitHub](https://github.com/Gooder-luck/Gooder-luck.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+  转眼间已经毕业近四年了，期间一直从事linux相关的开发工作，说来也惭愧，从大学开始参加电子设计相关竞赛开始后，就一直阅读人家的技术博客，俗称伸手党，在这期间，受益颇多。我想是时候写出一些自己的理解，一方面巩固自己的知识，另一方面也为后来者提供一些想法和指引。
+  工作的时间里，也曾写过大大小小的技术文档，但是仅限于内部流转，并不能提高技术文档的作用，故在这里记录下学习的心得，对某些linux技术的理解，也把
+这些理解更多的暴露在大家的视野中，对于理解不到位的地方，也能进一步纠正自己。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gooder-luck/Gooder-luck.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
